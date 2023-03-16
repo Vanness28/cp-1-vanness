@@ -1,4 +1,4 @@
-package com.vanness.kotlin
+package com.vanness.kotlin.cp1
 
 data class ArrayNum (val index: Int, val value: Char)
 

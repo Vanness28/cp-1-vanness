@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vanness/kotlin/Nomor2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/vanness/kotlin/Nomor2.kt" afterDir="false" />
-    </list>
+    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="Cp-2 Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +25,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="691554c6-6ca2-4c39-a38a-924a5b98b147" />
+        <option name="url" value="https://github.com/Vanness28/cp-1-vanness.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,23 +47,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Mobile Programming/cp-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Mobile Programming/cp-1&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Nomor2Kt">
-    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.AppKt" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Mobile Programming\cp-1\src\main\kotlin\com\vanness\kotlin\cp1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.App2Kt">
+    <configuration name="App2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.App2Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.App3Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.App4Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.AppKt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Nomor2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.Nomor2Kt" />
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp1.Nomor2Kt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.App2Kt" />
+        <item itemvalue="Kotlin.AppKt (1)" />
+        <item itemvalue="Kotlin.App3Kt" />
+        <item itemvalue="Kotlin.App4Kt" />
         <item itemvalue="Kotlin.Nomor2Kt" />
-        <item itemvalue="Kotlin.AppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678332435847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1678333297059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678333297059</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1678333532846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678333532846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
