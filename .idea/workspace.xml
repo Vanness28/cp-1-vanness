@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="Cp-2 Commit" />
+    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="Cp-3 Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +62,16 @@
       <recent name="C:\Mobile Programming\cp-1\src\main\kotlin\com\vanness\kotlin\cp1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AppKt">
+  <component name="RunManager" selected="Kotlin.AppKt (2)">
     <configuration name="App2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp3.App2Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp4.App2Kt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,15 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.App3Kt" />
-      <module name="cp-1.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp2.AppKt" />
+    <configuration name="AppKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vanness.kotlin.cp4.AppKt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AppKt (2)" />
+        <item itemvalue="Kotlin.App2Kt (2)" />
         <item itemvalue="Kotlin.AppKt" />
         <item itemvalue="Kotlin.App2Kt (1)" />
         <item itemvalue="Kotlin.App2Kt" />
-        <item itemvalue="Kotlin.AppKt (1)" />
-        <item itemvalue="Kotlin.App3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,12 +145,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678935400123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cp-3 Commit">
+      <created>1680143222992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680143222992</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Cp-2 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cp-2 Commit" />
+    <MESSAGE value="Cp-3 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cp-3 Commit" />
   </component>
 </project>
