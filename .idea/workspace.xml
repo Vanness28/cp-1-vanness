@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="Cp-3 Commit">
+    <list default="true" id="bc84e881-ac52-4673-b608-62a1350c2e53" name="Changes" comment="Cp-4 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vanness/kotlin/cp4/App2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/vanness/kotlin/cp4/App2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,13 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680143222992</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cp-4 Commit">
+      <created>1681348803089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681348803089</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Cp-2 Commit" />
     <MESSAGE value="Cp-3 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cp-3 Commit" />
+    <MESSAGE value="Cp-4 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cp-4 Commit" />
   </component>
 </project>
